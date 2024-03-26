@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\collage-ki-coffie.props" />
+</Project>

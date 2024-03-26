@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\collage-ki-coffie.props" />
+</Project>

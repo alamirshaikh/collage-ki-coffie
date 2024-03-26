@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("collage-ki-coffie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28a6f51d7833c971f1fb78f7aa3e4a31c3d919e")]
 [assembly: System.Reflection.AssemblyProductAttribute("collage-ki-coffie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("collage-ki-coffie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

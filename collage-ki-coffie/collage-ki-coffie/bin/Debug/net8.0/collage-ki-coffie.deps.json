@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "collage-ki-coffie/1.0.0": {
+        "runtime": {
+          "collage-ki-coffie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "collage-ki-coffie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

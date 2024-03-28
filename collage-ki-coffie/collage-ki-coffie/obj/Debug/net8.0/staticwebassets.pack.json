@@ -9,8 +9,88 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
       "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\about.png",
+      "PackagePath": "staticwebassets\\img\\about.png"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\img\\overlay-bottom.png"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\overlay-top.png",
+      "PackagePath": "staticwebassets\\img\\overlay-top.png"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service-4.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
       "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\js\\site.js",
@@ -197,6 +277,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
       "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -243,6 +331,482 @@
     {
       "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "G:\\collage-ki-coffie\\collage-ki-coffie\\collage-ki-coffie\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.collage-ki-coffie.props",

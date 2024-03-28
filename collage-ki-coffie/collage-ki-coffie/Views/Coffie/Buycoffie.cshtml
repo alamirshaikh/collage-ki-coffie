@@ -3,7 +3,149 @@
 
 }
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    /* Custom CSS */
+    .modal-content {
+        border-radius: 10px;
+    }
 
-<h1>
-    Welcome to my coffie Folder
-</h1>
+    .modal-header {
+        border-bottom: none;
+    }
+
+    .coffee-card {
+        margin-bottom: 20px;
+    }
+
+    .modal-footer {
+        border-top: none;
+    }
+
+    .btn-buy {
+        background-color: #8E7152;
+        color: #fff;
+        border-radius: 25px;
+    }
+
+        .btn-buy:hover {
+            background-color: #A88C6B;
+        }
+</style>
+
+<div class="container">
+    <h1 class="mt-5 mb-4">Coffee Menu</h1>
+
+        
+        <div class="row">
+
+        <!-- Coffee Card -->
+        <div class="col-md-4">
+            <div class="card coffee-card">
+                <img src="data:image/png;base64,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" class="card-img-top" alt="Coffee 1">
+                <div class="card-body">
+                    <h5 class="card-title">Coffee Name 1</h5>
+                    <p class="card-text">Description of Coffee 1.</p>
+                    <p class="card-text">Price: $5.99</p>
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#buyModal1">Buy</button>
+                </div>
+            </div>
+        </div>
+        </div>
+        } 
+       
+        <!-- Add more coffee cards as needed -->
+   
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+    <!-- Button to trigger the modal -->
+    <button type="button" class="btn btn-lg btn-buy" data-toggle="modal" data-target="#coffeeBillingModal">
+        Buy Coffee
+    </button>
+
+    <!-- Modal -->
+<div class="modal fade" id="buyModal1" tabindex="-1" role="dialog" aria-labelledby="coffeeBillingModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header bg-dark text-white">
+                    <h5 class="modal-title" id="coffeeBillingModalLabel">Coffee Billing</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                <div class="form-group">
+                   
+                    <label for="Customerphon">Phone:</label>
+                    <input type="text" class="form-control" id="Customerphon" value="">
+                </div>
+                <div class="form-group">
+                    <label for="prv">Month of Coffie:</label>
+                    <input type="text" class="form-control" id="monthofcoffie" value="20" readonly>
+                </div>
+                    <div class="form-group">
+                        <label for="coffeeName">Coffee Name:</label>
+                        <input type="text" class="form-control" id="coffeeName" value="Espresso" readonly>
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <label for="coffeePrice">Price:</label>
+                        <input type="text" class="form-control" id="coffeePrice" value="$2.50" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label for="quantity">Quantity:</label>
+                        <input type="number" class="form-control" id="quantity" value="1" min="1">
+                    </div>
+                    <div class="form-group">
+                        <label for="total">Total:</label>
+                        <input type="text" class="form-control" id="total" readonly>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-buy" id="confirmOrder">Confirm Order</button>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- JavaScript Libraries -->
+ 
+<script src="~/lib/easing/easing.min.js"></script>
+<script src="~/lib/waypoints/waypoints.min.js"></script>
+<script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="~/lib/tempusdominus/js/moment.min.js"></script>
+<script src="~/lib/tempusdominus/js/moment-timezone.min.js"></script>
+<script src="~/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+<!-- Contact Javascript File -->
+<script src="~/mail/jqBootstrapValidation.min.js"></script>
+<script src="~/mail/contact.js"></script>
+
+<!-- Template Javascript -->
+<script src="~/js/main.js"></script>
+  
+  <script>
+        // JavaScript code for calculating total based on quantity and coffee price
+        $(document).ready(function() {
+          // Set coffee name and price when a coffee is selected
+          $('#confirmOrder').click(function() {
+            var coffeePrice = parseFloat($('#coffeePrice').val().replace('$', ''));
+            var quantity = parseInt($('#quantity').val());
+            var total = coffeePrice * quantity;
+            $('#total').val('$' + total.toFixed(2));
+          });
+        });
+    </script>

@@ -1,0 +1,83 @@
+﻿@model Coffies 
+
+@{
+    ViewData["Title"] = "New Coffie";
+
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+<div class="container mt-5">
+    <h2 class="mb-4">Add Coffee Item</h2>
+    <form asp-action="CoffieAdd" asp-controller="Coffie" method="post" >
+        <div class="form-row">
+            <!-- Left side: Add Photo -->
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="profileImageInput">Add Photo for Coffee</label>
+                    <div class="input-group">
+                        <input type="file" id="profileImageInput" accept="image/*" style="display: none;">
+                        <label for="profileImageInput">
+                            <img  src="https://media.istockphoto.com/id/1495088043/vector/user-profile-icon-avatar-or-person-icon-profile-picture-portrait-symbol-default-portrait.jpg?s=612x612&w=0&k=20&c=dhV2p1JwmloBTOaGAtaA3AW1KSnjsdMt7-U_3EZElZ0=" alt="Profile Image" class="rounded-circle" id="profileImage" style="width: 120px; height: 120px; object-fit: cover; cursor: pointer;">
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            
+
+        <div class="form-group">
+            <label for="coffeeName">Coffee Name</label>
+            <input asp-for="CoffeeName" type="text" class="form-control" id="coffeeName" placeholder="Enter coffee name">
+        </div>
+        <div class="form-group">
+            <label for="description">Description</label>
+            <textarea asp-for="Description" class="form-control" id="description" rows="3" placeholder="Enter description"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="price">Price</label>
+            <input asp-for="Price" type="number" class="form-control" id="price" placeholder="Enter price">
+        </div>
+       <br />
+        <button type="submit" id="addcoff" class="btn btn-primary">Add Coffie</button>
+    </form>
+</div>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.esm.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.esm.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+ 
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Toastr JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#addcoff').submit(function (e) {
+            e.preventDefault(); // Prevent default form submission
+
+            $.ajax({
+                url: '/Coffie/CoffieAdd', // Adjust the URL as per your setup
+                method: 'POST',
+                data: $(this).serialize(),
+                success: function (response) {
+                    if (response.success) {
+                        // Show toastr success message
+                        toastr.success('Coffee item added successfully!');
+                    } else {
+                        // Show toastr error message
+                        toastr.error('Failed to add coffee item.');
+                    }
+                },
+                error: function () {
+                    // Show toastr error message in case of AJAX error
+                    toastr.error('An error occurred while processing your request.');
+                }
+            });
+        });
+    });
+</script>
